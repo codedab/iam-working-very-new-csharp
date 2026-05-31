@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {},
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/claude/iam-working/IdentityApi.csproj",
+      "projectName": "IdentityApi",
+      "projectPath": "/home/claude/iam-working/IdentityApi.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/claude/iam-working/obj/",
+      "projectStyle": "PackageReference",
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {},
+        "imports": ["net461","net462","net47","net471","net472","net48","net481","netstandard2.0","netstandard2.1"],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": { "privateAssets": "all" },
+          "Microsoft.AspNetCore.App": { "privateAssets": "none" }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
